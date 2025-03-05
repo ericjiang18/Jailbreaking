@@ -8,7 +8,7 @@ Xinpeng Wang, Chengzhi Hu, Paul Röttger and Barbara Plank.
 
 This code is build on top of the code from the work [Refusal in Language Models Is Mediated by a Single Direction](https://github.com/andyrdt/refusal_direction).
 
-## Environment Setup 🪜
+## 🪜 Environment Setup 
 ```bash
 source setup.sh
 ```
@@ -20,14 +20,14 @@ pip install -e .
 ``` 
 
 
-## Experiments 🔭
+## 🔭 Experiments 
 To run vector extraction, ablation and evaluation, run the script bellow:
 
 ```bash
 python -m pipeline.run_pipeline --config_path configs/cfg.yaml
 ```
 
-## Demo 🏄‍♂️
+## 🏄‍♂️ Demo 
 We also provide a demo notebook [here](demo.ipynb). We recommend using this as a hands-on intro of how our pipeline works and how the model is changed when doing the (fine-grained) vector ablation.
 
 
