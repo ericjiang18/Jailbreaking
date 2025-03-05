@@ -6,7 +6,7 @@ Initial code release for the paper:
 
 Xinpeng Wang, Chengzhi Hu, Paul Röttger and Barbara Plank. 
 
-This code is build on top of the code from the work [Refusal in Language Models Is Mediated by a Single Direction](https://github.com/andyrdt/refusal_direction).
+This code is build on top of the code from the **great** work [Refusal in Language Models Is Mediated by a Single Direction](https://github.com/andyrdt/refusal_direction).
 
 ## 🪜 Environment Setup 
 ```bash
