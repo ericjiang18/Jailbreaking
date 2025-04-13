@@ -2,7 +2,7 @@
 
 Initial code release for the paper:
 
-**Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation** (ICLR 2025)
+**[Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation](https://arxiv.org/abs/2410.03415)** (ICLR 2025)
 
 Xinpeng Wang, Chengzhi Hu, Paul Röttger and Barbara Plank. 
 
