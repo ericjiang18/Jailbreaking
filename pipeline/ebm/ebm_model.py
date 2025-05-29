@@ -30,9 +30,6 @@ class SimpleEBM(nn.Module):
         energy = self.network(x)
         return energy
 
-# You might want different EBMs for False Refusal (EBM_FR) and True Refusal (EBM_TR)
-# or a multi-headed EBM.
-# For now, we'll assume EBM_FR is the primary one.
 
 def load_ebm_model(model_path: str, input_dim: int, hidden_dim: int, device: str = 'cuda'):
     """
